@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="india">
+         <b>Capital</b>\t\t\t\t\t\t\t\t\t\t\t\t\t\t : Delhi \n
+        <b>Largest City</b>\t\t\t\t\t\t\t\t : Delhi \n
+        <b>National Language</b>\t : Hindi \n
+        <b>Total Area</b>\t\t\t\t\t\t\t\t\t\t : 242,495 km2 \n
+        <b>Currency</b>\t\t\t\t\t\t\t\t\t\t\t : GBP \n\n
+    </string>
+    <string name="france">
+        <b>Capital</b>\t\t\t\t\t\t\t\t\t\t\t\t\t\t : Paris\n
+        <b>Largest City</b>\t\t\t\t\t\t\t\t : Paris\n
+        <b>National Language</b>\t : French\n
+        <b>Total Area</b>\t\t\t\t\t\t\t\t\t\t : 640,679 km2\n
+        <b>Currency</b>\t\t\t\t\t\t\t\t\t\t\t : Euro\n\n
+    </string>
+    <string name="italy">
+
+        <b>Capital</b>\t\t\t\t\t\t\t\t\t\t\t\t\t\t : Rome\n
+        <b>Largest City</b>\t\t\t\t\t\t\t\t : Rome\n
+        <b>National Language</b>\t : Italian\n
+        <b>Total Area</b>\t\t\t\t\t\t\t\t\t\t : 301,340 km2\n
+        <b>Currency</b>\t\t\t\t\t\t\t\t\t\t\t : Euro\n\n
+    </string>
+</resources>
